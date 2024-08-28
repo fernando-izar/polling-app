@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Logs
+*.log
+*.out
+*.err
+*.pid
+*.gz
+
+# macOS files
+.DS_Store
+
+# Database
+*.sqlite3
+
+# Environment variables
+.env
+*.env
+
+# Pytest cache
+.pytest_cache/
+
+# FastAPI specific
+instance/
+*.db
